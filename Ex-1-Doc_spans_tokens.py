@@ -1,4 +1,5 @@
-# (a)
+# (a) Import the English language class and create the nlp object. Process the text and instantiate a Doc object in the variable doc. Select the first token of the Doc and print its text.
+
 # Import the English language class and create the nlp object
 from spacy.lang.en import English
 nlp = English()
